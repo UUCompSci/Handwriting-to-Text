@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhoneApp</string>
+    <string name="home">Home</string>
+    <string name="create_new_file">Create new file</string>
+    <string name="upload_document">Upload Document</string>
+    <string name="back_arrow">Back arrow</string>
+    <string name="upload_file_message">Please select the type of file you would like to extract text from:</string>
+    <string name="saved_image">Saved image</string>
+    <string name="saved_pdf">Saved PDF</string>
+    <string name="take_new_picture">Take new picture</string>
+    <string name="image">Image</string>
+    <string name="camera">Camera</string>
+    <string name="pdf_document">PDF Document</string>
+    <string name="results">Results</string>
+</resources>
